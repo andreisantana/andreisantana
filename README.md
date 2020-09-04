@@ -5,7 +5,7 @@
  <img src='https://raw.githubusercontent.com/andreisantana/andreisantana/master/assets/LI-Logo.png' width="50px"  alt="Andrei Santana" /> &nbsp | &nbsp
 </a>
 <span style='color:#00aff0; font-size:1em'  align="left"> 
-  <img src='https://raw.githubusercontent.com/andreisantana/andreisantana/master/assets//Skypeicon_24px.png' width="15px"  alt="Andrei Santana"  align="left"/>  andreisantana
+  <img src='https://raw.githubusercontent.com/andreisantana/andreisantana/master/assets//Skypeicon_24px.png' width="15px"  alt="Andrei Santana"/>  andreisantana
 </span>
 </br>
 </br>
