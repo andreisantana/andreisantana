@@ -16,7 +16,7 @@
     Sou profissional de tecnologia da informação, atuante a mais de 17 anos. Possuo experiência na área de infraestrutura (suporte ao usuário, manutenção de servidores, migração, implantação, e gestão de projetos).
 
 Aproximadamente 6 anos atrás, eu decidi migrar para desenvolvimento, atuando principalmente em BackEnd (PHP, com os frameworks Laravel, CakePHP, e Zend Framework), atuando também com os bancos de dados MySQL, Sql Server, Oracle, Postgres, e mais recentemente MariaDb, e MongoDB. 
-Sempre tive curiosidade também pelo FrontEnd. Já participei de desenvolvimento de layout, UI Interface, utilizando CSS3 e JavaScript. E por conta disso, realizei alguns cursos e treinamentos de React Js, Angular JS, SASS, LESS.
+Sempre tive curiosidade também pelo FrontEnd. Já participei de desenvolvimento de layout, utilizando CSS3 e JavaScript. E por conta disso, realizei alguns cursos e treinamentos de React Js, Angular JS, SASS, LESS.
 Mais recentemente comecei a me aventurar no universo DevOps, participando de palestras, treinamentos, e cursos, voltado para AWS, Docker, Kubernetes.
 
 </br>
