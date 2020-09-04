@@ -1,11 +1,10 @@
 # Andrei Santana
 <!-- Social Networking -->
 
- <a href="https://www.linkedin.com/in/andreisantana/" target="_blank">
- <img src='./assets/LI-Logo.png' width="50px"  alt="Bruno Bertolini | Codesandbox"/> &nbsp | &nbsp
+<a href="https://www.linkedin.com/in/andreisantana/" target="_blank">
+ <img src='https://raw.githubusercontent.com/andreisantana/andreisantana/master/assets/LI-Logo.png' width="50px"  alt="Andrei Santana"/> &nbsp | &nbsp
 </a>
- <img src='./assets/Skypeicon_24px.png' width="15px"  alt="Bruno Bertolini | Codesandbox"/>
- <span style='color:#00aff0; font-size:1em' > &nbsp andreisantana</span>
+<img src='https://raw.githubusercontent.com/andreisantana/andreisantana/master/assets//Skypeicon_24px.png' width="15px"  alt="Andrei Santana"/> <span style='color:#00aff0; font-size:1em' > &nbsp andreisantana</span>
 </br>
 </br>
 
