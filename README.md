@@ -1,7 +1,7 @@
 # Andrei Santana
 <!-- Social Networking -->
 
-<a href="https://www.linkedin.com/in/andreisantana/" target="_blank"  align="left">
+<a href="https://www.linkedin.com/in/andreisantana/" target="_blank" align="left">
  <img src='https://raw.githubusercontent.com/andreisantana/andreisantana/master/assets/LI-Logo.png' width="50px"  alt="Andrei Santana" /> &nbsp | &nbsp
 </a>
 <span style='color:#00aff0; font-size:1em'  align="left"> 
