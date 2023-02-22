@@ -75,7 +75,7 @@ Sou atualmente desenvolvedor fullstack sénior na NOS SGPS, em Lisboa.
 
 Caso queira saber mais sobre meu percurso, não hesite em visitar o meu perfil no <a href="https://www.linkedin.com/in/andreisantana/" target="_blank" align="left">
  <img src='https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white' alt="Andrei Santana" />
-</a> clicando aqui.
+</a>.
 
 Obrigado pela sua visita!
 
