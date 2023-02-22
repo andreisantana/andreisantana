@@ -55,3 +55,28 @@ Technologies I'm familiar with:
 </br>
 
 I hope this meets your expectations! Let me know if there's anything else I can help you with.
+
+
+
+</br>
+</br>
+
+
+
+<!-- About Me -->
+##  Olá! 👋
+</br>
+
+Sou um profissional de tecnologia da informação com mais de 17 anos de experiência. Atuei na área de infraestrutura, oferecendo suporte ao usuário, manutenção de servidores, migração, implantação e gestão de projetos.
+
+Há cerca de 7 anos, decidi migrar para o desenvolvimento, atuando principalmente no BackEnd (PHP, com os frameworks Laravel, CakePHP e Zend Framework), trabalhando também com os bancos de dados MySQL, SQL Server, Oracle, Postgres e, mais recentemente, MariaDB e MongoDB. Sempre tive curiosidade também pelo FrontEnd. Já participei no desenvolvimento de layouts, utilizando CSS3 e JavaScript. Por conta disso, fiz alguns cursos e treinamentos de React Js, Angular JS, SASS e LESS. Recentemente, comecei a me aventurar no universo DevOps, participando de palestras, treinamentos e cursos voltados para AWS, Docker e Kubernetes.
+
+Sou atualmente desenvolvedor fullstack sénior na NOS SGPS, em Lisboa.
+
+Caso queira saber mais sobre meu percurso, não hesite em visitar o meu perfil no <a href="https://www.linkedin.com/in/andreisantana/" target="_blank" align="left">
+ <img src='https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white' width="50px"  alt="Andrei Santana" /> &nbsp | &nbsp
+</a> clicando aqui.
+
+Obrigado pela sua visita!
+
+
