@@ -2,7 +2,7 @@
 <!-- Social Networking -->
 
 <a href="https://www.linkedin.com/in/andreisantana/" target="_blank" align="left">
- <img src='https://raw.githubusercontent.com/andreisantana/andreisantana/master/assets/LI-Logo.png' width="50px"  alt="Andrei Santana" /> &nbsp | &nbsp
+ <img src='https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white' alt="Andrei Santana" /> 
 </a>
 </br>
 </br>
