@@ -10,7 +10,7 @@
 <!-- About Me -->
 ## Olá!!
 </br>
-   ##Hi there! 👋
+   ## Hi there! 👋
 I'm a technology professional with over 17 years of experience in IT. I have a background in infrastructure (user support, server maintenance, migration, implementation, and project management).
 
 About seven years ago, I decided to shift my focus to development, primarily in BackEnd (PHP, with frameworks such as Laravel, CakePHP, and Zend Framework), as well as working with databases such as MySQL, SQL Server, Oracle, Postgres, and more recently MariaDB and MongoDB.
