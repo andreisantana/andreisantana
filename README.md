@@ -27,25 +27,28 @@ Technologies I'm familiar with:
 </br>
 </br>
 <!-- Knowledge --><p align="center">
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/-CakePHP-D33C43?style=flat-square&logo=cakephp&logoColor=white" alt="CakePHP"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/000000/sql-server.png" alt="SQL Server"/>
-  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle"/>
-  <img src="https://img.icons8.com/color/48/000000/mariadb.png" alt="MariaDB"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS"/>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="AngularJS"/>
-  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS"/>
-  <img src="https://img.icons8.com/color/48/000000/less-logo.png" alt="LESS"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe.png" alt="Adobe Experience Manager"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/>
-  <img src="https://img.icons8.com/color/48/000000/test-tube.png" alt="Testes"/>
+  <img src="https://img.shields.io/badge/-JavaScript-68B604?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-MySQL-68B604?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-68B604?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/-CSS3-68B604?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-SQL%20Server-68B604?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/-Oracle-68B604?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/-MariaDB-68B604?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/-MongoDB-68B604?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/-ReactJS-68B604?style=flat-square&logo=react&logoColor=white" alt="ReactJS"/>
+  <img src="https://img.shields.io/badge/-AngularJS-68B604?style=flat-square&logo=angular&logoColor=white" alt="AngularJS"/>
+  <img src="https://img.shields.io/badge/-SASS-68B604?style=flat-square&logo=sass&logoColor=white" alt="SASS"/>
+  <img src="https://img.shields.io/badge/-LESS-68B604?style=flat-square&logo=less&logoColor=white" alt="LESS"/>
+  <img src="https://img.shields.io/badge/-Adobe%20Experience%20Manager-68B604?style=flat-square&logo=adobe&logoColor=white" alt="Adobe Experience Manager"/>
+  <img src="https://img.shields.io/badge/-Node.js-68B604?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Vue.js-68B604?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/-Selenium-68B604?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/-TestingLibrary-68B604?style=flat-square&logo=testing-library&logoColor=white" alt="Testing Library"/>
+  <img src="https://img.shields.io/badge/-JEST-68B604?style=flat-square&logo=jest&logoColor=white" alt="JEST"/>
+  <img src="https://img.shields.io/badge/-GIT-68B604?style=flat-square&logo=git&logoColor=white" alt="JEST"/>
 </p>
 
 </br>
