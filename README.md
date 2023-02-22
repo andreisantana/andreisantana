@@ -4,66 +4,51 @@
 <a href="https://www.linkedin.com/in/andreisantana/" target="_blank" align="left">
  <img src='https://raw.githubusercontent.com/andreisantana/andreisantana/master/assets/LI-Logo.png' width="50px"  alt="Andrei Santana" /> &nbsp | &nbsp
 </a>
-<span style='color:#00aff0; font-size:1em'  align="left"> 
-  <img src='https://raw.githubusercontent.com/andreisantana/andreisantana/master/assets//Skypeicon_24px.png' width="15px"  alt="Andrei Santana"/>  andreisantana
-</span>
 </br>
 </br>
 
 <!-- About Me -->
 ## Olá!!
 </br>
-    Sou profissional de tecnologia da informação, atuante a mais de 17 anos. Possuo experiência na área de infraestrutura (suporte ao usuário, manutenção de servidores, migração, implantação, e gestão de projetos).
+   Hi there! 👋
+I'm a technology professional with over 17 years of experience in IT. I have a background in infrastructure (user support, server maintenance, migration, implementation, and project management).
 
-Aproximadamente 6 anos atrás, eu decidi migrar para desenvolvimento, atuando principalmente em BackEnd (PHP, com os frameworks Laravel, CakePHP, e Zend Framework), atuando também com os bancos de dados MySQL, Sql Server, Oracle, Postgres, e mais recentemente MariaDb, e MongoDB. 
-Sempre tive curiosidade também pelo FrontEnd. Já participei de desenvolvimento de layout, utilizando CSS3 e JavaScript. E por conta disso, realizei alguns cursos e treinamentos de React Js, Angular JS, SASS, LESS.
-Mais recentemente comecei a me aventurar no universo DevOps, participando de palestras, treinamentos, e cursos, voltado para AWS, Docker, Kubernetes.
+About seven years ago, I decided to shift my focus to development, primarily in BackEnd (PHP, with frameworks such as Laravel, CakePHP, and Zend Framework), as well as working with databases such as MySQL, SQL Server, Oracle, Postgres, and more recently MariaDB and MongoDB.
+
+I've always been curious about FrontEnd development too. I've been involved in layout development using CSS3 and JavaScript, and as a result, I've taken several courses and training in React JS, Angular JS, SASS, and LESS.
+
+More recently, I've started exploring the DevOps universe, attending talks, training, and courses on AWS, Docker, and Kubernetes.
+
+Feel free to check out my LinkedIn profile for more information.
+
+Technologies I'm familiar with:
 
 </br>
 </br>
 </br>
-<!-- Knowledge -->
-<!-- PHP -->
-<code>
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP">
-</code>
-<!-- Laravel -->
-<code>
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel">
-</code>
-<!-- wordpress -->
-<code>
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="Laravel">
-</code>
-<!-- MySQL -->
-<code>
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL">
-</code>
-<!-- JAVA -->
-<code>
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java">
-</code>
-<!-- javascript -->
-<code>
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  alt="javascript">
-</code>
-<!-- REACT -->
-<code>
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"  alt="react">
-</code>
-<!-- NodeJs -->
-<code>
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"  alt="nodejs">
-</code>
-<!-- Angular -->
-<code>
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"  alt="angular">
-</code>
-<!-- Docker -->
-<code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"  alt="docker">
-</code>
-<!-- MongoDB -->
-<code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"  alt="MongoDB">
-</code>
+<!-- Knowledge --><p align="center">
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
+  <img src="https://img.icons8.com/color/48/000000/laravel.png" alt="Laravel"/>
+  <img src="https://img.icons8.com/color/48/000000/cakephp.png" alt="CakePHP"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/sql-server.png" alt="SQL Server"/>
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle"/>
+  <img src="https://img.icons8.com/color/48/000000/mariadb.png" alt="MariaDB"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="AngularJS"/>
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS"/>
+  <img src="https://img.icons8.com/color/48/000000/less-logo.png" alt="LESS"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe.png" alt="Adobe Experience Manager"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/>
+  <img src="https://img.icons8.com/color/48/000000/test-tube.png" alt="Testes"/>
+</p>
+
+</br>
+</br>
+
+I hope this meets your expectations! Let me know if there's anything else I can help you with.
