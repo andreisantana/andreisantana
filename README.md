@@ -28,8 +28,8 @@ Technologies I'm familiar with:
 </br>
 <!-- Knowledge --><p align="center">
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
-  <img src="https://img.icons8.com/color/48/000000/laravel.png" alt="Laravel"/>
-  <img src="https://img.icons8.com/color/48/000000/cakephp.png" alt="CakePHP"/>
+  <img src="[https://img.icons8.com/color/48/000000/laravel.png](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)" alt="Laravel"/>
+  <img src="[https://img.icons8.com/color/48/000000/cakephp.png](https://img.shields.io/badge/-CakePHP-D33C43?style=flat-square&logo=cakephp&logoColor=white)" alt="CakePHP"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
